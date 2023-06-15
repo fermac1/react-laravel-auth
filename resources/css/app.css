@@ -1,0 +1,33 @@
+.App {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  form {
+    padding-left: 30px;
+  }
+  .login {
+    border: solid medium black;
+    border-radius: 5px;
+    height: 400px;
+    width: 400px;
+    margin: auto;
+  }
+  input {
+    display: block;
+    width: 80%;
+    height: 25px;
+    margin-top: 8px;
+    margin-bottom: 5px;
+  }
+  button {
+    padding: 10px;
+    background-color: aqua;
+    color: white;
+    border-radius: 5px;
+    width: 80px;
+    height: 50px;
+  }
+  .sign-in {
+    text-align: center;
+  }
+  
